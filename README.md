@@ -1,1 +1,3 @@
-# pipelineProject
+# maven-project
+
+Simple Maven Project
